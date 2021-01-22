@@ -1,2 +1,2 @@
 # PHP-site
- projet de crèation d'un site
+ projet de création d'un site
